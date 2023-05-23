@@ -1,4 +1,4 @@
-# Credits to: https://realpython.com/sorting-algorithms-python/#the-timsort-algorithm-in-python for making the merge sort algorithm for me!
+# Credit to: https://realpython.com/sorting-algorithms-python/#the-timsort-algorithm-in-python for making the merge sort algorithm for me!
 #from numba import *
 
 #@jit
