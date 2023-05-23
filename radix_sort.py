@@ -1,4 +1,5 @@
-#I DID NOT MAKE THIS MYSELF!!!!!
+# Credit to: https://www.sortvisualizer.com/radixsort/ for making the radix sort algorithm for me!
+
 def counting_sort(array, exp1):
     n = len(array)
     output = [0] * (n)
